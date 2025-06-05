@@ -1,0 +1,1 @@
+data = "ricky damar saputra"
